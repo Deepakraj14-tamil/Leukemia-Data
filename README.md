@@ -30,7 +30,7 @@ Usage
 
 Acknowledgements
 
-This project uses the Blood Cell Image Dataset available on Kaggle, created by Shivam Bansal.
+This project uses the Blood Cell Image Dataset available on Kaggle, created by Deepakraj E.
 License
 
 The code is licensed under the MIT License. See LICENSE file for more information.
