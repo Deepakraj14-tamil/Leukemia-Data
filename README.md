@@ -45,7 +45,7 @@ python test.py
 This will load the trained model from the leukemia_model.h5 file and test it using a set of test images.
 
 ## Results
-The developed model achieved an accuracy of 92.5% on the testing set, with a precision of 91.7% and a recall of 93.3%. These results show that the model has good performance in diagnosing leukemia based on blood cell images.
+The developed model achieved an accuracy of 82.04% on the testing set, with a precision of 82.7% and a recall of 83.3%. These results show that the model has good performance in diagnosing leukemia based on blood cell images.
 
 ## Conclusion
 The developed deep learning model has shown promising results in diagnosing leukemia based on blood cell images. However, further research and testing are needed before the model can be used in a clinical setting.
